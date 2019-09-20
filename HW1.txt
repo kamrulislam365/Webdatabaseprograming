@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Saimun islam</title>
+<style>
+#logo{ width:20%;
+height:100px;
+left:0px;
+top:0px;
+background-color: #EC4346;
+position:absolute;
+color:black;
+text-align:center;
+
+}
+#head{ width:80%;
+height:100px;
+right:0px;
+top:0px;
+position:absolute;
+background-color: #C18283;
+color:black;
+text-align:center;
+}
+#menu{ width:100%;
+height:100px;
+left:0px;
+right:0px;
+top:105px;
+position:absolute;
+background-color: #2FDC93;
+color:black;
+text-align:center;
+}
+#sbarleft{ width:30%;
+height:300px;
+left:0px;
+top:210px;
+position:absolute;
+background-color: #5DC7ED;
+color:black;
+text-align:center;
+}
+#content{ width:40%;
+height:300px;
+left:30%;
+right:30%;
+top:210px;
+position:absolute;
+background-color: #B3ECC1;
+color:black;
+text-align:center;
+}
+#sbarright{ width:30%;
+height:300px;
+right:0px;
+top:210px;
+position:absolute;
+background-color:#5DC7ED;
+color:black;
+text-align:center;
+}
+#footer{ width:80%;
+height:100px;
+left:0px;
+right:20%;
+top:515px;
+position:absolute;
+background-color: #60A8A7;
+color:black;
+text-align:center;
+}
+#icon{ width:20%;
+height:100px;
+left:80%;
+right:0px;
+top:515px;
+position:absolute;
+background-color: #DDEB9F;
+color:black;
+text-align:center;
+}
+</style>
+</head>
+
+<body>
+
+<div id="logo">  Logo </div>
+<div id="head">  Header </div>
+<div id="menu">  Menu </div>
+<div id="sbarleft"> Side Bar is the Left </div>
+<div id="content">  Content </div>
+<div id="sbarright">  Side Bar is the Right </div>
+<div id="footer"> Footer </div>
+<div id="icon"> Icon </div>
+
+
+</body>
+</html>
